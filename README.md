@@ -8,3 +8,6 @@
 <p align="center"> <img src="https://github.com/DarlanNoetzold/GradienteDescendente/blob/main/gradient01.png" />
 <p align="center"> <img src="https://github.com/DarlanNoetzold/GradienteDescendente/blob/main/gradient02.png" />
 <p align="center"> <img src="https://github.com/DarlanNoetzold/GradienteDescendente/blob/main/gradient03.png" />
+
+  ---
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
